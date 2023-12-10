@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kusovya-рез-опрос-e",
+  "editForm": "i-i-s-kusovya-рез-опрос-e",
+  "external": false,
+  "caption": "Рез опрос",
+  "name": "IISKusovyaРезОпросL",
+  "className": "РезОпросL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kusovya-рез-опрос",
+      "modelProjection": "РезОпросL"
+    }
+  ]
+}

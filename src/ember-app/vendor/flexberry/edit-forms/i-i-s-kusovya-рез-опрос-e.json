@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудник",
+      "projection": "СотрудникL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Рез опрос",
+  "name": "IISKusovyaРезОпросE",
+  "className": "РезОпросE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kusovya-рез-опрос",
+      "modelProjection": "РезОпросE"
+    }
+  ]
+}

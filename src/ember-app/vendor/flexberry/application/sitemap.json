@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Kusovya",
+  "applicationTitle": "Kusovya",
+  "items": [
+    {
+      "link": null,
+      "menuName": "kusovya",
+      "caption": "Kusovya",
+      "title": "Kusovya",
+      "children": [
+        {
+          "link": "i-i-s-kusovya-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kusovya-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kusovya-рез-опрос-l",
+          "menuName": null,
+          "caption": "Рез опрос",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
