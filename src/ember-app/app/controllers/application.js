@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-kusovya-сотрудник-l',
             caption: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-сотрудник-l.caption'),
             title: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-сотрудник-l.title'),
-            icon: 'folder open',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-kusovya-должность-l',
             caption: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-должность-l.caption'),
             title: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-должность-l.title'),
-            icon: 'paperclip',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-kusovya-рез-опрос-l',
             caption: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-рез-опрос-l.caption'),
             title: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-рез-опрос-l.title'),
-            icon: 'archive',
+            icon: 'address card',
             children: null
           }]
         }
