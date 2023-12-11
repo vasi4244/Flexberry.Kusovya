@@ -28,7 +28,7 @@ export default Controller.extend({
             link: 'i-i-s-kusovya-сотрудник-l',
             caption: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-сотрудник-l.caption'),
             title: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-сотрудник-l.title'),
-            icon: 'tasks',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-kusovya-должность-l',
@@ -40,7 +40,7 @@ export default Controller.extend({
             link: 'i-i-s-kusovya-рез-опрос-l',
             caption: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-рез-опрос-l.caption'),
             title: i18n.t('forms.application.sitemap.kusovya.i-i-s-kusovya-рез-опрос-l.title'),
-            icon: 'folder open',
+            icon: 'edit',
             children: null
           }]
         }
